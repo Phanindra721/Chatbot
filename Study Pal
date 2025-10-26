@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Chatbot</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 40px;
+      text-align: center;
+    }
+    h1 {
+      color: #333;
+    }
+    .chatbot-container {
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Study Assistant 🤖</h1>
+  <p>Interact with the chatbot below to get help with your studies!</p>
+
+  <div class="chatbot-container">
+  <script src='https://www.noupe.com/embed/019a1a546f177a24bdb55e4a452308bde434.js'></script>
+  </div>
+</body>
+</html>
